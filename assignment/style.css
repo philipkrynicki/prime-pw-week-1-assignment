@@ -1,10 +1,10 @@
 /* Give your page a fun background color */
 body {
-  background-color: 444444;
+  background-color: #444444;
 }
 /* Make the header and footer a different color from the background */
 header {
-  color: 888888;
+  color: #888888;
 }
 footer {
   color: Green;
