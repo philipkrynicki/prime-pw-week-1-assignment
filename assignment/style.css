@@ -1,11 +1,21 @@
 /* Give your page a fun background color */
 body {
-  background-color: #444444;
+  background-color: Yellow;
 }
 /* Make the header and footer a different color from the background */
-header {
-  color: #888888;
+header class="exp-header" ...> {
+  color: Red;
 }
+
+h1 {
+  color: Violet;
+  text-align: center;
+}
+
+ul {
+  color: Blue;
+}
+
 footer {
   color: Green;
 }
@@ -15,12 +25,15 @@ footer {
 }
 /* Make your p tag a different color and italic */
 p {
-  color: Indigo; italic;
+  color: Indigo;
+  font-style: italic;
 }
 /* Put a border around your image */
 img {
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
+  border-top: 10px solid Red;
+  border-bottom: 10px solid Red;
+  border-left: 10px solid Red;
+  border-right: 10px solid Red;
 }
 /* Change the font-family of your list */
 body {
